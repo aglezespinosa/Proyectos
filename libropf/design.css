@@ -1,0 +1,177 @@
+body {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 13pt;
+	margin: 20px 0px;
+	padding: 0px;
+	text-align: center;
+	background-color: #F0F0F0;
+}
+
+#page {
+	width: 650px;
+	margin: 0px auto;
+	text-align: left;
+	border: 1px #999999 solid;
+	background-color: #FFFFFF;
+}
+
+#content {
+	padding: 10px 30px 10px 30px;
+}
+
+#footer {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #666666;
+}
+
+li {
+	padding-bottom: 20px;
+	list-style-image: url(images/checkmark.gif);
+}
+
+h1 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 24px;
+	color: #CC0000;
+	text-align: center;
+}
+
+h2 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	color: #990000;
+	text-align: center;
+	margin-top: 30px;
+}
+
+blockquote {
+	margin: 5px 15px 5px 15px;
+}
+
+.surheader {
+	font-style: italic;
+	text-indent: 0px;
+}
+
+.subheader {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 19px;
+	font-weight: bold;
+	text-indent: 0px;
+}
+
+.signature {
+	text-align: right;
+	margin: 10px 0px 10px 0px;
+	font-size: 17px;
+	font-weight: bold;
+}
+
+.noindent {
+	text-indent: 0px;
+}
+
+.dropcapital {
+	float: left;
+}
+
+.highlight {
+	background-color: #FFFF00;
+}
+
+.graphic {
+	float: right;
+	margin: 0px 0px 5px 5px;
+}
+
+
+.box {
+	margin: 30px 0px 50px 0px;
+	padding: 5px 10px 5px 10px;
+	border: 2px #990000 solid;
+}
+
+.jbox {
+	margin: 20px auto;
+	width: 80%;
+	padding: 10px;
+	border: 1px #000000 solid;
+	background-color: #FFFFCC;
+}
+
+.jbox_title {
+	font-family: Tahoma;
+	font-size: 18px;
+	font-weight: bold;
+	color: #FF0000;
+	text-align: center;
+	margin: 5px 0px 15px 0px;
+}
+
+.jbox p {
+	text-indent: 0px;
+}
+
+.guarantee {
+	margin: 20px auto;
+	width: 80%;
+	padding: 10px;
+	border: 2px #000000 solid;
+	background-color: #F4F4F4;
+}
+
+.guarantee p {
+	text-indent: 0px;
+}
+
+.guarantee h1 {
+	font-family: Tahoma;
+	font-size: 18px;
+	font-weight: bold;
+	color: #FF0000;
+	text-align: center;
+	margin: 5px 0px 15px 0px;
+}
+
+.testimonial {
+	margin: 30px auto;
+	width: 80%;
+	padding: 10px;
+	border: 1px #000000 solid;
+	background-color: #FFFFCC;
+	font-family: "Courier New", Courier, mono;
+	font-size: 15px;
+}
+
+.testimonial img {
+	float: right;
+	margin: 0px 0px 5px 5px;
+}
+
+.testimonial_title {
+	font-family: Tahoma;
+	font-size: 18px;
+	font-weight: bold;
+	color: #FF0000;
+	text-align: center;
+	margin: 5px 0px 15px 0px;
+}
+
+.testimonial_who {
+	font-size: 15px;
+	font-weight: bold;
+	text-align: right;
+	margin-top: 5px;
+}
+
+.testimonial_separator {
+	height: 30px;
+}
+
+.postscript {
+	font-family: Tahoma;
+	font-size: 17px;
+	font-weight: bold;
+	color: #CC0000;
+}
